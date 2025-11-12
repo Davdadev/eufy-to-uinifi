@@ -14,3 +14,6 @@ Downlaod link
 https://www.deskcamera.com/download/
 Licence link
 https://www.deskcamera.com/free-trial/
+<h2> 4: Desk camera</h2>
+Install Desk camera and conect your licence
+Then Remove
